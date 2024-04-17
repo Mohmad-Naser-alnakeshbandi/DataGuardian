@@ -30,6 +30,7 @@ To set up the project environment, follow these steps:
 
 To run the application, navigate to the project directory and execute the following command in the terminal:
 
+> python -m flask run
 
 
 This will start the Flask server on `localhost` with the default port `5000`. You can access the application by visiting `http://127.0.0.1:5000` in your web browser.
